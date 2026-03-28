@@ -51,7 +51,7 @@ graph TD;
 ### Mis Contribuciones
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sergiedev&show_icons=true&theme=light&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergiedev&theme=default" alt="Estadísticas de GitHub" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergiedev&theme=light&hide_border=true" alt="Racha de contribuciones" />
 </p>
@@ -61,7 +61,7 @@ graph TD;
 ### Contacto
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sergio-andrés-novoa-ospino-22a85b314/" target="_blank">
+  <a href="https://www.linkedin.com/in/sergiedev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:sergio.novoa1109@gmail.com">
