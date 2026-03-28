@@ -51,9 +51,9 @@ graph TD;
 ### Mis Contribuciones
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_NUEVO_USUARIO&show_icons=true&theme=light&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sergiedev&show_icons=true&theme=light&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_NUEVO_USUARIO&theme=light&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergiedev&theme=light&hide_border=true" alt="Racha de contribuciones" />
 </p>
 
 ---
