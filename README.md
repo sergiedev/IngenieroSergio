@@ -44,3 +44,30 @@ graph TD;
 
     N[DevOps] --> O[Docker]
     N --> P[Git + GitHub]
+```
+
+---
+
+### Mis Contribuciones
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_NUEVO_USUARIO&show_icons=true&theme=light&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_NUEVO_USUARIO&theme=light&hide_border=true" alt="Racha de contribuciones" />
+</p>
+
+---
+
+### Contacto
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sergio-andrés-novoa-ospino-22a85b314/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sergio.novoa1109@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/573205010762" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
